@@ -1,4 +1,4 @@
-name: Challenge Two, FIGHT!
+name: Challenge Three, FIGHT!
 on:
   push:
     branches: [master]
